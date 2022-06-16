@@ -14,6 +14,7 @@ Starting to learn:
 <br>
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs-logo">
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo">
+ <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactnative-logo">
 <br>
 
 ![mauricioarj1 GitHub stats](https://github-readme-stats.vercel.app/api?username=mauricioarj1&show_icons=true&theme=radical)
